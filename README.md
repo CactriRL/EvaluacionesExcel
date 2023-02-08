@@ -1,11 +1,11 @@
 # EvaluacionesExcel
-<br> Descarga las evaluaciones en PDF
-<br> <a href="EVALUACION - ANGELA AGUILERA.pdf" download="EVALUACION - ANGELA AGUILERA.pdf">DANGELA AGUILERA
-<br> <a href="EVALUACION - BISMARK CUELLAR.pdf" download="EVALUACION - BISMARK CUELLAR.pdf">BISMARK CUELLAR
-<br> <a href="EVALUACION - CARLA ARTEAGA.pdf" download="EVALUACION - CARLA ARTEAGA.pdf">CARLA ARTEAGA
-<br> <a href="EVALUACION - DANIELA.pdf" download="EVALUACION - DANIELA.pdf">DANIELA
-<br> <a href="EVALUACION - LEDDY.pdf" download="#EVALUACION - LEDDY.pdf">LEDDY
-<br> <a href="EVALUACION - MAICOL.pdf" download="VALUACION - MAICOL.pdf">MAICOL
-<br> <a href="EVALUACION - RICHARD.pdf" download="EVALUACION - RICHARD.pdf">RICHARD
+<br> Descarga las evaluaciones en EXCEL
+<br> <a href="EVALUACION - ANGELA AGUILERA.xlsx" download="EVALUACION - ANGELA AGUILERA.xlsx">DANGELA AGUILERA
+<br> <a href="EVALUACION - BISMARK CUELLAR.xlsx" download="EVALUACION - BISMARK CUELLAR.xlsx">BISMARK CUELLAR
+<br> <a href="EVALUACION - CARLA ARTEAGA.xlsx" download="EVALUACION - CARLA ARTEAGA.xlsx">CARLA ARTEAGA
+<br> <a href="EVALUACION - DANIELA.xlsx" download="EVALUACION - DANIELA.xlsx">DANIELA
+<br> <a href="EVALUACION - LEDDY.xlsx" download="#EVALUACION - LEDDY.xlsx">LEDDY
+<br> <a href="EVALUACION - MAICOL.xlsx" download="VALUACION - MAICOL.xlsx">MAICOL
+<br> <a href="EVALUACION - RICHARD.xlsx" download="EVALUACION - RICHARD.xlsx">RICHARD
 <br><br><br>
-<br> <a href="EVALUACION - RICHARD.pdf" download="EVALUACION - RICHARD.pdf">RICHARD
+<br> <a href="EVALUACION - RICHARD.pdf" download="EVALUACION - RICHARD.pdf">Archivos PDF
