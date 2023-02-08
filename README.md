@@ -6,6 +6,6 @@
 <br> <a href="EVALUACION - DANIELA.xlsx" download="EVALUACION - DANIELA.xlsx">DANIELA
 <br> <a href="EVALUACION - LEDDY.xlsx" download="#EVALUACION - LEDDY.xlsx">LEDDY
 <br> <a href="EVALUACION - MAICOL.xlsx" download="VALUACION - MAICOL.xlsx">MAICOL
-<br> <a href="EVALUACION - RICHARD.xlsx" download="EVALUACION - RICHARD.xlsx">RICHARD
+<br> <a href="EVALUACION - RICHARD.xlsx" download="EVALUACION - RICHARD.xlsx">RICHARD</a>
 <br><br><br>
-<br> <a href="EVALUACION - RICHARD.pdf" download="EVALUACION - RICHARD.pdf">Archivos PDF
+<br> <a href="https://cactrirl.github.io/Evaluaiciones/">Archivos PDF</a>
